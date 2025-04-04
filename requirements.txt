@@ -1,0 +1,5 @@
+numpy==1.26.4
+tensorflow==2.15.0
+h5py==3.11.0
+pandas==2.2.2
+scikit-learn==1.4.2
